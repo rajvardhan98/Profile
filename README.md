@@ -8,7 +8,7 @@ I'm a passionate software developer with a keen interest in developing scalable 
 - 🌱 I’m currently learning more about cloud computing and DevOps.
 - 👯 I’m looking to collaborate on innovative and impactful projects.
 - 💬 Ask me about software development, open-source contributions, and technology in general.
-- 📫 How to reach me: [rajvardhan98@example.com](mailto:raj.vardhan@xpindia.in)
+- 📫 How to reach me: [raj.vardhan@xpindia.in](mailto:raj.vardhan@xpindia.in)
 - ⚡ Fun fact: I am a huge fan of science fiction.
 
 ## 🛠️ Technologies & Tools
