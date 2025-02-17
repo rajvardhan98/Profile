@@ -20,10 +20,6 @@ I'm a passionate software developer with a keen interest in developing scalable 
 - DevOps: Docker, Kubernetes, Jenkins, GitHub Actions
 - Cloud: AWS, Azure, Google Cloud Platform
 
-## 📈 GitHub Stats
-
-![Rajvardhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajvardhan98&show_icons=true&theme=radical)
-
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/raj-vardhan-singh-353730128/)
